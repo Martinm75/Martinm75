@@ -7,5 +7,5 @@
 
 ## Idiomas
 - **Español**: Nativo
-- **Inglés**: Avanzado (B2)
+- **Inglés**: Avanzado (C1 - Cambridge)
 
